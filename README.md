@@ -6,7 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Need to take a git clone 
-  ``
+  `git clone https://github.com/nitinvupk/book_store.git`
 
 * Go to project directory
 
