@@ -31,5 +31,8 @@ Note: - `bookstore.postman_collection.json` present in db directory
 * Run all the test cases 
   `rspec`
 
-* If you want to check the coverage of the test cases
+* If you want to check the coverage of the test cases[Book-store-working-flow.zip](https://github.com/nitinvupk/book_store/files/10965737/Book-store-working-flow.zip)
+
   `google-chrome coverage/index.html`
+
+
